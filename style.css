@@ -93,7 +93,15 @@ background: linear-gradient(45deg, #a8e0639e, #56ab2fcf);
     font-size: 13px;
 }
 
+.footer-bg {
+    height: 27px;
+    background-color: rgb(67 67 67);
+}
 
+.footer-bg small {
+    color: white;
+    font-size: 12px;
+}
 
 
 
